@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Render Static Site</title>
+    </head>
+    <body>
+        <h1>Render satatic site</h1>
+        <p>Name: Yixuan Sun</p>
+
+        <p>
+            Github Location: 
+            <a href="https://github.com/ysun1221/CMSC335.git">https://github.com/ysun1221/CMSC335.git</a>
+        </p>
+        
+        <p>
+            Terpconnect Location:
+            <a href="https://terpconnect.umd.edu/~ysun1221/terpconnect_static_site/">https://terpconnect.umd.edu/~ysun1221/terpconnect_static_site/</a>
+        </p>
+    </body>
+</html>
